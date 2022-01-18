@@ -29,7 +29,7 @@ The objective of this project is to determine the placement of sensors under dif
 
 The KY2 Water Distribution Network is shown below. Yellow dots represent detection nodes, blue links represent pipes.
 
-<img src="images/network.png?raw=true" width="700"/>
+<img src="images/network.png?raw=true"/>
 
 <!-- BUILT WITH -->
 ## Built With
